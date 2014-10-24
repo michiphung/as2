@@ -1,0 +1,8 @@
+size 512 512
+
+output teapot_obj.png
+camera 0 0 3 0 0 0 0 1 0 45
+ambient .1 .1 .1
+directional 0 0 -1 0.6 0.6 0.6
+diffuse 1 1 0 
+object teapot.obj
